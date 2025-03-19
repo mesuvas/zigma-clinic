@@ -1,0 +1,5 @@
+.bg-building {
+  background-image: url("../images/medicalBuilding.jpg");
+  background-position: center;
+  background-size: cover;
+}
